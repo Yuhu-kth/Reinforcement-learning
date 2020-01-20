@@ -1,2 +1,2 @@
-# Reinforcement-learning-
+# Reinforcement-learning
 EL2805 Reinforcement learning 
